@@ -6,16 +6,28 @@ body {
   font-family: "Alexandria", sans-serif;
 }
 
-
 h1 {
-    color: #0072d3;
+  color: #0072d3;
 }
 
 a {
-    color: #0072d3;
+  color: #0072d3;
+  color: black;
 }
 
 .logo {
-    font-family: "Aref Ruqaa", serif !important;
-    font-size: 28px;
+  font-family: "Aref Ruqaa", serif !important;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+
+footer {
+    margin-top: 330px;
+    text-align: center;
 }
